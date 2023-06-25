@@ -12,7 +12,7 @@ The BFT consensus protocol allows a network of nodes to reach agreement on a pro
 
 3. **Node:** This class represents a node in the system. Each node has a name and methods to propose a block (propose) and receive a message (receive_message).
 
-4. **Messaging Queue:*** This global list simulates a messaging system between nodes.
+4. **Messaging Queue:** This global list simulates a messaging system between nodes.
 
 ## Execution Flow
 1. A list of nodes is created.
